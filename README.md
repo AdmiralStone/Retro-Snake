@@ -33,4 +33,4 @@ The game ends when the snake collides with the walls or its own tail. Your score
 
 ## Credits
 
-This game was created by using the raylib library. The raylib library is developed by [Raylib Team](https://github.com/raysan5/raylib#development-and-contributors).
+This game was created using the raylib library. The raylib library is developed by [Raylib Team](https://github.com/raysan5/raylib#development-and-contributors).
