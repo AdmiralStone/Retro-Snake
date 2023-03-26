@@ -2,7 +2,7 @@
 
 This is a retro-style snake game written in C++ using the raylib library. The game is a classic implementation of the popular snake game, where the player controls a snake that grows in length as it eats food, while avoiding colliding with the walls or its own tail.
 
-##Screen
+## Screenshots
 ![Paused](screenshot/paused.png)
 
 ![Garown](screenshot/grown_snake.png)
