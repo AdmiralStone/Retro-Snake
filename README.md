@@ -23,8 +23,6 @@ $ ./main.out
 - Use the arrow keys to control the direction of the snake.
 - Press the 'P' key to pause the game.
 
-Please make sure to update tests as appropriate.
-
 ## Gameplay
 
 The objective of the game is to eat as much food as possible without colliding with the walls or the snake's own tail. Each time the snake eats a piece of food, its length increases by one.
