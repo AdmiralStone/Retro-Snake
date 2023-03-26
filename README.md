@@ -15,7 +15,7 @@ Once you have raylib installed, clone this repository and navigate to the root d
 
 ```bash
 $ g++ main.cpp `pkg-config --libs --cflags raylib` -o main
-$ ./main.out
+$ ./main
 ```
 
 ## Controls
